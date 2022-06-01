@@ -1,0 +1,3 @@
+1.Google and download Keil5 online.
+2.Follow "Keil Installation" to install Keil5
+3.Follow ¡°Run code to DEMO board¡± to test the EPD
