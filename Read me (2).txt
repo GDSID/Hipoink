@@ -1,0 +1,38 @@
+-Full schematics of all of the hardware  
+OK
+
+-Documentation on how to use and develop for your products
+OK
+
+-Any software that is required to use your products
+Included in ¡°HOW to use¡±folder
+
+-A link to the "open-source code for STM32¡± mentioned in the Features & Specifications table
+-In addition, please let us know if you will or will not be publishing the following:
+https://www2.keil.com/mdk5
+
+-Your PCB design files
+-Your Bill of Materials (BOM)
+These two are not necessarily, follow the sechmatics can copy the whole board, all the materials are on the sechmatics.
+
+-Any design files that might exist for an appropriately-sized enclosure
+-Separately, here is a list of information you can provide that will help to ensure that your product is of unique value:
+
+
+
+-Is the advertised (0.3 s) refresh rate a partial refresh or a full refresh?
+Partial refresh typical time(Including full screen partial refresh):0.3s   full refresh:0.9s        (Partial refresh and full refresh use two differents LUT(look up table))
+
+-Please provide the full and partial refresh times with the NFC board.
+NFC board only has full refresh mode, the code we burn in the EPD chip is full refresh LUT.
+
+-How long does it take the phone to charge up the NFC board so the screen can be refreshed?
+It depend on different types of phone, it take about 3s to charge and updata the image data. 
+
+-Please provide a video showing these refresh rates.
+-Please provide a photo of the screen rendering a grayscale image that includes all three shades of gray.
+The EPD chip has grayscale function, but for the small size EPD, it used to use on ESL system, they only use black and white color or black, white and red color.
+
+Have you obtained critical components for all of your products? (STM32 chips in particular are out of stock for most people.)
+If not, what is the longest published lead time from among the critical components you have not yet obtained? (We know these are often wild guesses from suppliers, but...it's still helpful when setting an estimated ship date for HiPo.)
+The chip we design at the very beginning is STM32F10VET6, this one is out of stock and very hard to find or very expensive, but we already use STM32F10VBT6 to replace it. it has same fuction with STM32F10VET6. So we are fine.
