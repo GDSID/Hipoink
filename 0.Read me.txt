@@ -17,4 +17,4 @@ Download this whole file,  Open ".uvprojx" file to editing the code.
 File"Download code to DEMO board"
 after editing the code, follow the steps to download ".hex" file to the Demoboard
 
-IF you have any question, please contact us through Email.
+IF you have any question, please contact us.
