@@ -1,0 +1,184 @@
+Dependencies for Project 'EPD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x60347315)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\SYSTEM\delay\delay.h)(0x5EB4F2F7)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\HARDWARE\EPD\Display_EPD_W21_spi.h)(0x5EB4F021)
+I (..\HARDWARE\EPD\Display_EPD_W21.h)(0x5EB60B84)
+I (..\HARDWARE\EPD\Ap_29demo.h)(0x5EB60D34)
+I (..\HARDWARE\GUI\GUI_Paint.h)(0x5D133788)
+I (..\HARDWARE\GUI\../Fonts/fonts.h)(0x5D14CD7D)
+F (.\stm32f10x_it.c)(0x4EBEACB0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\stm32f10x_it.o --omf_browse ..\obj\stm32f10x_it.crf --depend ..\obj\stm32f10x_it.d)
+I (stm32f10x_it.h)(0x4D99A426)
+I (stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (.\system_stm32f10x.c)(0x4D99A426)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+I (stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (system_stm32f10x.h)(0x4D783CAA)
+I (stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\delay\delay.c)(0x5EB4FB7B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x5EB4F2F7)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\sys\sys.c)(0x5055B57C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\sys.o --omf_browse ..\obj\sys.crf --depend ..\obj\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\SYSTEM\usart\usart.c)(0x50517A98)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\usart.o --omf_browse ..\obj\usart.crf --depend ..\obj\usart.d)
+I (..\SYSTEM\sys\sys.h)(0x5055B57C)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\SYSTEM\usart\usart.h)(0x50517A82)
+I (D:\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+F (..\CORE\core_cm3.c)(0x4C0C587E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\core_cm3.o --omf_browse ..\obj\core_cm3.crf --depend ..\obj\core_cm3.d)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\CORE\startup_stm32f10x_hd.s)(0x4D783CDE)(--cpu Cortex-M3 -g --apcs=interwork -I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x--list .\startup_stm32f10x_hd.lst --xref -o ..\obj\startup_stm32f10x_hd.o --depend ..\obj\startup_stm32f10x_hd.d)
+F (..\STM32F10x_FWLib\src\misc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\misc.o --omf_browse ..\obj\misc.crf --depend ..\obj\misc.d)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x4D79EEC6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\stm32f10x_gpio.o --omf_browse ..\obj\stm32f10x_gpio.crf --depend ..\obj\stm32f10x_gpio.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\stm32f10x_rcc.o --omf_browse ..\obj\stm32f10x_rcc.crf --depend ..\obj\stm32f10x_rcc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x4D783BB4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\stm32f10x_usart.o --omf_browse ..\obj\stm32f10x_usart.crf --depend ..\obj\stm32f10x_usart.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\HARDWARE\EPD\Display_EPD_W21.c)(0x605423FD)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\display_epd_w21.o --omf_browse ..\obj\display_epd_w21.crf --depend ..\obj\display_epd_w21.d)
+I (..\HARDWARE\EPD\Display_EPD_W21_spi.h)(0x5EB4F021)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+I (..\HARDWARE\EPD\Display_EPD_W21.h)(0x5EB60B84)
+F (..\HARDWARE\EPD\Display_EPD_W21_spi.c)(0x5F30C583)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\display_epd_w21_spi.o --omf_browse ..\obj\display_epd_w21_spi.crf --depend ..\obj\display_epd_w21_spi.d)
+I (..\HARDWARE\EPD\Display_EPD_W21_spi.h)(0x5EB4F021)
+I (..\USER\stm32f10x.h)(0x4D783CB4)
+I (..\CORE\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (..\USER\system_stm32f10x.h)(0x4D783CAA)
+I (..\USER\stm32f10x_conf.h)(0x5010D956)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x4D783BB4)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x4D783BB4)
+F (..\HARDWARE\GUI\GUI_Paint.c)(0x5D147E80)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\gui_paint.o --omf_browse ..\obj\gui_paint.crf --depend ..\obj\gui_paint.d)
+I (..\HARDWARE\GUI\GUI_Paint.h)(0x5D133788)
+I (..\HARDWARE\GUI\../Fonts/fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\Keil_v4\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (D:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (D:\Keil_v4\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font8.c)(0x5D133826)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font8.o --omf_browse ..\obj\font8.crf --depend ..\obj\font8.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font12.c)(0x5D133826)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font12.o --omf_browse ..\obj\font12.crf --depend ..\obj\font12.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font12CN.c)(0x5D48E2FF)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font12cn.o --omf_browse ..\obj\font12cn.crf --depend ..\obj\font12cn.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font16.c)(0x5D133826)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font16.o --omf_browse ..\obj\font16.crf --depend ..\obj\font16.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font20.c)(0x5D133826)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font20.o --omf_browse ..\obj\font20.crf --depend ..\obj\font20.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font24.c)(0x5D133826)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font24.o --omf_browse ..\obj\font24.crf --depend ..\obj\font24.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+F (..\HARDWARE\Fonts\font24CN.c)(0x5D14C42A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\EPD -I..\HARDWARE\Fonts -I..\HARDWARE\GUI-I D:\Keil_v4\ARM\RV31\INC-I D:\Keil_v4\ARM\CMSIS\Include-I D:\Keil_v4\ARM\Inc\ST\STM32F10x-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o ..\obj\font24cn.o --omf_browse ..\obj\font24cn.crf --depend ..\obj\font24cn.d)
+I (..\HARDWARE\Fonts\fonts.h)(0x5D14CD7D)
+I (D:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C7B744)
