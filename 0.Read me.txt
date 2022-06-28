@@ -1,3 +1,8 @@
+File"1. Install Software"
+Install Keil uVision5 to your computer, you need to download sofeware from the following webside
+https://www.keil.com/download/product/
+download and install"MDK-Arm", follow the "keil5 install Steps"pdf might can help you install the software
+
 1.Google and download Keil5 online.
 2.Follow "Keil Installation" to install Keil5
-3.Follow ¡°Run code to DEMO board¡± to test the EPD
+3.Follow Â¡Â°Run code to DEMO boardÂ¡Â± to test the EPD
