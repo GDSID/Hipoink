@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"..\obj\main.o"
+"..\obj\stm32f10x_it.o"
+"..\obj\system_stm32f10x.o"
+"..\obj\delay.o"
+"..\obj\sys.o"
+"..\obj\usart.o"
+"..\obj\core_cm3.o"
+"..\obj\startup_stm32f10x_hd.o"
+"..\obj\misc.o"
+"..\obj\stm32f10x_gpio.o"
+"..\obj\stm32f10x_rcc.o"
+"..\obj\stm32f10x_usart.o"
+"..\obj\display_epd_w21.o"
+"..\obj\display_epd_w21_spi.o"
+"..\obj\gui_paint.o"
+"..\obj\font8.o"
+"..\obj\font12.o"
+"..\obj\font12cn.o"
+"..\obj\font16.o"
+"..\obj\font20.o"
+"..\obj\font24.o"
+"..\obj\font24cn.o"
+--strict --scatter "..\OBJ\OLED.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\OLED.map" -o ..\OBJ\OLED.axf
